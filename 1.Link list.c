@@ -179,7 +179,7 @@ void insert_pos()
         printf("\nOut of Memory Space:\n");
         return;
     }
-    printf("\ position for  new node:\t");
+    printf("\n position for  new node:\t");
     scanf("%d",&pos);
     printf("\nEnter value of the node:\t");
     scanf("%d",&temp->value) ;
